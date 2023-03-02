@@ -1,0 +1,15 @@
+package hubscript;
+
+import org.openqa.selenium.WebDriver;
+
+public class BaseClass {
+	
+	WebDriver driver;
+	
+	
+	public WebDriver initialize(String browsername) {
+		return driver;
+		
+	}
+
+}

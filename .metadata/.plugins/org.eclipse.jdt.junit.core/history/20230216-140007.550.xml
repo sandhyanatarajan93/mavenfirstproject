@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="RunCucumberForAppianTest" project="cucumber-for-appian-22.4" tests="1" started="1" failures="0" errors="1" ignored="0">
+  <testsuite name="TestRunner.RunCucumberForAppianTest" time="2.396">
+    <testsuite name="Sample Tempo Navigation Example to get started with CucumberForAppian" time="2.396">
+      <testcase name="Login to Appian environment and navigate Tempo tabs" classname="Sample Tempo Navigation Example to get started with CucumberForAppian" time="2.396">
+        <error>java.lang.NullPointerException: Cannot read field "value" because "anotherInteger" is null&#13;
+	at java.base/java.lang.Integer.compareTo(Integer.java:1477)&#13;
+	at com.appiancorp.ps.automatedtest.common.Version.compareTo(Version.java:254)&#13;
+	at com.appiancorp.ps.automatedtest.common.Version.getBestIndexFromList(Version.java:186)&#13;
+	at com.appiancorp.ps.automatedtest.common.Settings.getDateFormat(Settings.java:137)&#13;
+	at com.appiancorp.ps.automatedtest.common.Settings.setLocale(Settings.java:198)&#13;
+	at com.appiancorp.ps.automatedtest.fixture.BaseFixture.setAppianLocaleTo(BaseFixture.java:281)&#13;
+	at com.appiancorp.ps.cucumber.fixtures.CucumberBaseFixture.setAppianLocaleTo(CucumberBaseFixture.java:26)&#13;
+	at ✽.I set appian locale to "APPIAN_LOCALE"(file:///C:/Users/sandhyan/Desktop/LocalWorkspace/cucumber-for-appian-22.4/src/test/resources/TempoNavigationExample.feature:17)&#13;
+&#13;
+</error>
+      </testcase>
+    </testsuite>
+  </testsuite>
+</testrun>

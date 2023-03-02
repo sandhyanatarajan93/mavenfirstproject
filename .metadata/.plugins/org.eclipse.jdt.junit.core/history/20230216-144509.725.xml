@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="RunCucumberForAppianTest" project="cucumber-for-appian-22.4" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="TestRunner.RunCucumberForAppianTest" time="27.186">
+    <testsuite name="Expense Reimbursement Request" time="27.186">
+      <testcase name="Submit the Expense Request" classname="Expense Reimbursement Request" time="27.186"/>
+    </testsuite>
+  </testsuite>
+</testrun>

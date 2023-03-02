@@ -1,0 +1,264 @@
+2023-02-16 14:00:09,922 [main] DEBUG com.appiancorp.ps.automatedtest.fixture.BaseFixture - browser=BROWSER
+2023-02-16 14:00:09,946 [main] DEBUG com.appiancorp.ps.automatedtest.common.FixtureMetrics - userid=84bcca093c4598d85cda64588d69d7692e378fd76278e6c733eeba9646af6337, pipelineDimension=Standalone, testingFramework=FitNesse
+2023-02-16 14:38:08,993 [main] DEBUG com.appiancorp.ps.automatedtest.fixture.BaseFixture - browser=CHROME
+2023-02-16 14:40:00,371 [main] DEBUG com.appiancorp.ps.automatedtest.fixture.BaseFixture - browser=CHROME
+2023-02-16 14:40:03,587 [main] DEBUG com.appiancorp.ps.automatedtest.common.FixtureMetrics - userid=84bcca093c4598d85cda64588d69d7692e378fd76278e6c733eeba9646af6337, pipelineDimension=Standalone, testingFramework=FitNesse
+2023-02-16 14:40:04,490 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - LOGIN [vuramitem@vuram.com]
+2023-02-16 14:40:11,141 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - WAIT FOR LOGIN
+2023-02-16 14:40:16,820 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.action.TempoAction - WAIT FOR ACTION [Expense]
+2023-02-16 14:41:30,992 [main] DEBUG com.appiancorp.ps.automatedtest.fixture.BaseFixture - browser=CHROME
+2023-02-16 14:41:33,956 [main] DEBUG com.appiancorp.ps.automatedtest.common.FixtureMetrics - userid=84bcca093c4598d85cda64588d69d7692e378fd76278e6c733eeba9646af6337, pipelineDimension=Standalone, testingFramework=FitNesse
+2023-02-16 14:41:35,421 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - LOGIN [vuramitem@vuram.com]
+2023-02-16 14:41:40,363 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - WAIT FOR LOGIN
+2023-02-16 14:41:45,920 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoMenuWidget - WAIT FOR tempo menu widget [Expense]
+2023-02-16 14:43:28,555 [main] DEBUG com.appiancorp.ps.automatedtest.fixture.BaseFixture - browser=CHROME
+2023-02-16 14:43:31,531 [main] DEBUG com.appiancorp.ps.automatedtest.common.FixtureMetrics - userid=84bcca093c4598d85cda64588d69d7692e378fd76278e6c733eeba9646af6337, pipelineDimension=Standalone, testingFramework=FitNesse
+2023-02-16 14:43:33,059 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - LOGIN [vuramitem@vuram.com]
+2023-02-16 14:43:40,653 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - WAIT FOR LOGIN
+2023-02-16 14:43:45,934 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Expense]
+2023-02-16 14:43:45,964 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Expense]
+2023-02-16 14:45:12,024 [main] DEBUG com.appiancorp.ps.automatedtest.fixture.BaseFixture - browser=CHROME
+2023-02-16 14:45:15,146 [main] DEBUG com.appiancorp.ps.automatedtest.common.FixtureMetrics - userid=84bcca093c4598d85cda64588d69d7692e378fd76278e6c733eeba9646af6337, pipelineDimension=Standalone, testingFramework=FitNesse
+2023-02-16 14:45:17,733 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - LOGIN [vuramitem@vuram.com]
+2023-02-16 14:45:23,204 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - WAIT FOR LOGIN
+2023-02-16 14:45:28,444 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Expense]
+2023-02-16 14:45:28,467 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Expense]
+2023-02-16 17:25:46,871 [main] DEBUG com.appiancorp.ps.automatedtest.fixture.BaseFixture - browser=CHROME
+2023-02-16 17:25:51,982 [main] DEBUG com.appiancorp.ps.automatedtest.common.FixtureMetrics - userid=84bcca093c4598d85cda64588d69d7692e378fd76278e6c733eeba9646af6337, pipelineDimension=Standalone, testingFramework=FitNesse
+2023-02-16 17:25:52,882 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - LOGIN [vuramitem@vuram.com]
+2023-02-16 17:25:58,839 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - WAIT FOR LOGIN
+2023-02-16 17:26:04,422 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Expense]
+2023-02-16 17:26:04,456 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Expense]
+2023-02-16 17:26:11,461 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Submit Expense Reimbursement]
+2023-02-16 17:26:11,509 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Submit Expense Reimbursement]
+2023-02-16 17:26:16,646 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoTextField - POPULATION [ExpenseOne]
+2023-02-16 17:35:54,958 [main] DEBUG com.appiancorp.ps.automatedtest.fixture.BaseFixture - browser=CHROME
+2023-02-16 17:36:00,130 [main] DEBUG com.appiancorp.ps.automatedtest.common.FixtureMetrics - userid=84bcca093c4598d85cda64588d69d7692e378fd76278e6c733eeba9646af6337, pipelineDimension=Standalone, testingFramework=FitNesse
+2023-02-16 17:36:02,257 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - LOGIN [vuramitem@vuram.com]
+2023-02-16 17:36:08,242 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - WAIT FOR LOGIN
+2023-02-16 17:36:14,266 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Expense]
+2023-02-16 17:36:14,302 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Expense]
+2023-02-16 17:36:22,067 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Submit Expense Reimbursement]
+2023-02-16 17:36:22,117 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Submit Expense Reimbursement]
+2023-02-16 17:36:31,946 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoTextField - POPULATION [ExpenseOne]
+2023-02-16 17:36:34,251 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownSearchBox - WAIT FOR DROPDOWN SEARCH BOX [Expense Category]
+2023-02-16 17:36:34,369 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownSearchBox - SEARCH DROPDOWN [Expense Category] FOR [Business Development]
+2023-02-16 17:39:00,092 [main] DEBUG com.appiancorp.ps.automatedtest.fixture.BaseFixture - browser=CHROME
+2023-02-16 17:39:04,621 [main] DEBUG com.appiancorp.ps.automatedtest.common.FixtureMetrics - userid=84bcca093c4598d85cda64588d69d7692e378fd76278e6c733eeba9646af6337, pipelineDimension=Standalone, testingFramework=FitNesse
+2023-02-16 17:39:06,732 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - LOGIN [vuramitem@vuram.com]
+2023-02-16 17:39:13,734 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - WAIT FOR LOGIN
+2023-02-16 17:39:20,069 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Expense]
+2023-02-16 17:39:20,104 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Expense]
+2023-02-16 17:39:27,643 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Submit Expense Reimbursement]
+2023-02-16 17:39:27,708 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Submit Expense Reimbursement]
+2023-02-16 17:39:37,727 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoTextField - POPULATION [ExpenseOne]
+2023-02-16 17:39:40,229 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownSearchBox - WAIT FOR DROPDOWN SEARCH BOX [Expense Category]
+2023-02-16 17:39:40,339 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownSearchBox - SEARCH DROPDOWN [Expense Category] FOR [Business Development]
+2023-02-16 17:41:27,729 [main] DEBUG com.appiancorp.ps.automatedtest.fixture.BaseFixture - browser=CHROME
+2023-02-16 17:41:32,125 [main] DEBUG com.appiancorp.ps.automatedtest.common.FixtureMetrics - userid=84bcca093c4598d85cda64588d69d7692e378fd76278e6c733eeba9646af6337, pipelineDimension=Standalone, testingFramework=FitNesse
+2023-02-16 17:41:34,266 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - LOGIN [vuramitem@vuram.com]
+2023-02-16 17:41:40,504 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - WAIT FOR LOGIN
+2023-02-16 17:41:45,942 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Expense]
+2023-02-16 17:41:45,983 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Expense]
+2023-02-16 17:41:53,243 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Submit Expense Reimbursement]
+2023-02-16 17:41:53,291 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Submit Expense Reimbursement]
+2023-02-16 17:41:58,473 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoTextField - POPULATION [ExpenseOne]
+2023-02-16 17:56:39,891 [main] DEBUG com.appiancorp.ps.automatedtest.fixture.BaseFixture - browser=CHROME
+2023-02-16 17:56:43,900 [main] DEBUG com.appiancorp.ps.automatedtest.common.FixtureMetrics - userid=84bcca093c4598d85cda64588d69d7692e378fd76278e6c733eeba9646af6337, pipelineDimension=Standalone, testingFramework=FitNesse
+2023-02-16 17:56:44,752 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - LOGIN [vuramitem@vuram.com]
+2023-02-16 17:56:50,589 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - WAIT FOR LOGIN
+2023-02-16 17:56:55,962 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Expense]
+2023-02-16 17:56:55,989 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Expense]
+2023-02-16 17:57:03,042 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Submit Expense Reimbursement]
+2023-02-16 17:57:03,074 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Submit Expense Reimbursement]
+2023-02-16 17:57:08,371 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoTextField - POPULATION [ExpenseOne]
+2023-02-16 17:57:12,833 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [Appian World]
+2023-02-16 17:57:55,175 [main] DEBUG com.appiancorp.ps.automatedtest.fixture.BaseFixture - browser=CHROME
+2023-02-16 17:57:59,012 [main] DEBUG com.appiancorp.ps.automatedtest.common.FixtureMetrics - userid=84bcca093c4598d85cda64588d69d7692e378fd76278e6c733eeba9646af6337, pipelineDimension=Standalone, testingFramework=FitNesse
+2023-02-16 17:57:59,880 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - LOGIN [vuramitem@vuram.com]
+2023-02-16 17:58:05,787 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - WAIT FOR LOGIN
+2023-02-16 17:58:11,219 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Expense]
+2023-02-16 17:58:11,250 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Expense]
+2023-02-16 17:58:18,017 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Submit Expense Reimbursement]
+2023-02-16 17:58:18,057 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Submit Expense Reimbursement]
+2023-02-16 17:58:26,666 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoTextField - POPULATION [ExpenseOne]
+2023-02-16 17:58:29,309 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [Appian World]
+2023-02-16 17:58:33,303 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [INR]
+2023-02-16 18:00:32,517 [main] DEBUG com.appiancorp.ps.automatedtest.fixture.BaseFixture - browser=CHROME
+2023-02-16 18:00:36,303 [main] DEBUG com.appiancorp.ps.automatedtest.common.FixtureMetrics - userid=84bcca093c4598d85cda64588d69d7692e378fd76278e6c733eeba9646af6337, pipelineDimension=Standalone, testingFramework=FitNesse
+2023-02-16 18:00:37,232 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - LOGIN [vuramitem@vuram.com]
+2023-02-16 18:00:42,490 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - WAIT FOR LOGIN
+2023-02-16 18:00:48,204 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Expense]
+2023-02-16 18:00:48,239 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Expense]
+2023-02-16 18:00:55,624 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Submit Expense Reimbursement]
+2023-02-16 18:00:55,655 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Submit Expense Reimbursement]
+2023-02-16 18:01:00,455 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoTextField - POPULATION [ExpenseOne]
+2023-02-16 18:01:03,665 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [Appian World]
+2023-02-16 18:01:07,779 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [INR]
+2023-02-16 18:01:13,801 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDateField - POPULATION [02/14/2023]
+2023-02-16 18:18:42,278 [main] DEBUG com.appiancorp.ps.automatedtest.fixture.BaseFixture - browser=CHROME
+2023-02-16 18:18:45,876 [main] DEBUG com.appiancorp.ps.automatedtest.common.FixtureMetrics - userid=84bcca093c4598d85cda64588d69d7692e378fd76278e6c733eeba9646af6337, pipelineDimension=Standalone, testingFramework=FitNesse
+2023-02-16 18:18:47,925 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - LOGIN [vuramitem@vuram.com]
+2023-02-16 18:18:53,677 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - WAIT FOR LOGIN
+2023-02-16 18:18:59,326 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Expense]
+2023-02-16 18:18:59,352 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Expense]
+2023-02-16 18:19:06,416 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Submit Expense Reimbursement]
+2023-02-16 18:19:06,469 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Submit Expense Reimbursement]
+2023-02-16 18:19:11,488 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoTextField - POPULATION [ExpenseOne]
+2023-02-16 18:19:13,673 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [Appian World]
+2023-02-16 18:19:16,577 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [INR]
+2023-02-16 18:19:20,302 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDateField - POPULATION [02/14/2023]
+2023-02-16 18:28:56,018 [main] DEBUG com.appiancorp.ps.automatedtest.fixture.BaseFixture - browser=CHROME
+2023-02-16 18:28:59,073 [main] DEBUG com.appiancorp.ps.automatedtest.common.FixtureMetrics - userid=84bcca093c4598d85cda64588d69d7692e378fd76278e6c733eeba9646af6337, pipelineDimension=Standalone, testingFramework=FitNesse
+2023-02-16 18:29:00,024 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - LOGIN [vuramitem@vuram.com]
+2023-02-16 18:29:05,148 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - WAIT FOR LOGIN
+2023-02-16 18:29:10,766 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Expense]
+2023-02-16 18:29:10,791 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Expense]
+2023-02-16 18:30:11,401 [main] DEBUG com.appiancorp.ps.automatedtest.fixture.BaseFixture - browser=CHROME
+2023-02-16 18:30:14,544 [main] DEBUG com.appiancorp.ps.automatedtest.common.FixtureMetrics - userid=84bcca093c4598d85cda64588d69d7692e378fd76278e6c733eeba9646af6337, pipelineDimension=Standalone, testingFramework=FitNesse
+2023-02-16 18:30:15,320 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - LOGIN [vuramitem@vuram.com]
+2023-02-16 18:30:20,124 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - WAIT FOR LOGIN
+2023-02-16 18:30:25,769 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Expense]
+2023-02-16 18:30:25,788 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Expense]
+2023-02-16 18:31:35,510 [main] DEBUG com.appiancorp.ps.automatedtest.fixture.BaseFixture - browser=CHROME
+2023-02-16 18:31:39,010 [main] DEBUG com.appiancorp.ps.automatedtest.common.FixtureMetrics - userid=84bcca093c4598d85cda64588d69d7692e378fd76278e6c733eeba9646af6337, pipelineDimension=Standalone, testingFramework=FitNesse
+2023-02-16 18:31:40,908 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - LOGIN [vuramitem@vuram.com]
+2023-02-16 18:31:46,390 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - WAIT FOR LOGIN
+2023-02-16 18:31:51,642 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Expense]
+2023-02-16 18:31:51,671 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Expense]
+2023-02-16 18:31:59,644 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Submit Expense Reimbursement]
+2023-02-16 18:31:59,671 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Submit Expense Reimbursement]
+2023-02-16 18:32:03,639 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoTextField - POPULATION [ExpenseOne]
+2023-02-16 18:32:06,806 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [Appian World]
+2023-02-16 18:32:10,419 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [INR]
+2023-02-16 18:32:14,531 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDateField - POPULATION [02/14/2023]
+2023-02-16 18:33:57,427 [main] DEBUG com.appiancorp.ps.automatedtest.fixture.BaseFixture - browser=CHROME
+2023-02-16 18:34:00,699 [main] DEBUG com.appiancorp.ps.automatedtest.common.FixtureMetrics - userid=84bcca093c4598d85cda64588d69d7692e378fd76278e6c733eeba9646af6337, pipelineDimension=Standalone, testingFramework=FitNesse
+2023-02-16 18:34:01,456 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - LOGIN [vuramitem@vuram.com]
+2023-02-16 18:34:06,947 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - WAIT FOR LOGIN
+2023-02-16 18:34:12,460 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Expense]
+2023-02-16 18:34:12,492 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Expense]
+2023-02-16 18:34:19,017 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Submit Expense Reimbursement]
+2023-02-16 18:34:19,045 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Submit Expense Reimbursement]
+2023-02-16 18:34:23,130 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoTextField - POPULATION [ExpenseOne]
+2023-02-16 18:34:25,734 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [Appian World]
+2023-02-16 18:34:28,612 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [INR]
+2023-02-16 18:34:32,129 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDateField - POPULATION [02/14/2023]
+2023-02-16 18:43:37,993 [main] DEBUG com.appiancorp.ps.automatedtest.fixture.BaseFixture - browser=CHROME
+2023-02-16 18:43:42,133 [main] DEBUG com.appiancorp.ps.automatedtest.common.FixtureMetrics - userid=84bcca093c4598d85cda64588d69d7692e378fd76278e6c733eeba9646af6337, pipelineDimension=Standalone, testingFramework=FitNesse
+2023-02-16 18:43:43,516 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - LOGIN [vuramitem@vuram.com]
+2023-02-16 18:43:49,047 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - WAIT FOR LOGIN
+2023-02-16 18:43:54,586 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Expense]
+2023-02-16 18:43:54,612 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Expense]
+2023-02-16 18:44:02,041 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Submit Expense Reimbursement]
+2023-02-16 18:44:02,073 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Submit Expense Reimbursement]
+2023-02-16 18:44:08,010 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoTextField - POPULATION [ExpenseOne]
+2023-02-16 18:44:11,049 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [Appian World]
+2023-02-16 18:44:14,625 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [INR]
+2023-02-16 18:44:18,172 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDateField - POPULATION [02/14/2023]
+2023-02-16 18:44:20,104 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [Car rental]
+2023-02-16 22:44:01,114 [main] DEBUG com.appiancorp.ps.automatedtest.fixture.BaseFixture - browser=CHROME
+2023-02-16 22:44:04,774 [main] DEBUG com.appiancorp.ps.automatedtest.common.FixtureMetrics - userid=84bcca093c4598d85cda64588d69d7692e378fd76278e6c733eeba9646af6337, pipelineDimension=Standalone, testingFramework=FitNesse
+2023-02-16 22:44:06,348 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - LOGIN [vuramitem@vuram.com]
+2023-02-16 22:44:13,872 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - WAIT FOR LOGIN
+2023-02-16 22:44:19,156 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Expense]
+2023-02-16 22:44:19,189 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Expense]
+2023-02-16 22:44:26,230 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Submit Expense Reimbursement]
+2023-02-16 22:44:26,293 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Submit Expense Reimbursement]
+2023-02-16 22:44:35,970 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoTextField - POPULATION [ExpenseOne]
+2023-02-16 22:44:38,913 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [Appian World]
+2023-02-16 22:44:42,720 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [INR]
+2023-02-16 22:44:47,441 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDateField - POPULATION [02/14/2023]
+2023-02-16 22:44:51,427 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [Car rental]
+2023-02-16 22:44:55,321 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [Travel Card]
+2023-02-16 22:44:59,458 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [INR]
+2023-02-16 22:45:03,906 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoTextField - POPULATION [0]
+2023-02-16 22:45:07,655 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoTextField - POPULATION [1000]
+2023-02-16 22:45:10,469 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoParagraphField - POPULATION [Client Visit]
+2023-02-16 22:45:14,488 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Add new Attachment]
+2023-02-16 22:45:14,527 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Add new Attachment]
+2023-02-16 22:45:17,959 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [Other]
+2023-02-16 22:50:56,871 [main] DEBUG com.appiancorp.ps.automatedtest.fixture.BaseFixture - browser=CHROME
+2023-02-16 22:50:59,731 [main] DEBUG com.appiancorp.ps.automatedtest.common.FixtureMetrics - userid=84bcca093c4598d85cda64588d69d7692e378fd76278e6c733eeba9646af6337, pipelineDimension=Standalone, testingFramework=FitNesse
+2023-02-16 22:51:02,030 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - LOGIN [vuramitem@vuram.com]
+2023-02-16 22:51:08,791 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - WAIT FOR LOGIN
+2023-02-16 22:51:14,384 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Expense]
+2023-02-16 22:51:14,408 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Expense]
+2023-02-16 22:51:21,677 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Submit Expense Reimbursement]
+2023-02-16 22:51:21,739 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Submit Expense Reimbursement]
+2023-02-16 22:51:26,203 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoTextField - POPULATION [ExpenseOne]
+2023-02-16 22:51:28,790 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [Appian World]
+2023-02-16 22:51:32,917 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [INR]
+2023-02-16 22:51:36,318 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDateField - POPULATION [02/14/2023]
+2023-02-16 22:51:39,066 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [Car rental]
+2023-02-16 22:51:42,846 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [Cash in Advance]
+2023-02-16 22:51:46,586 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [INR]
+2023-02-16 22:51:50,964 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoTextField - POPULATION [0.5]
+2023-02-16 22:51:53,530 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoTextField - POPULATION [1000]
+2023-02-16 22:51:56,612 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoParagraphField - POPULATION [Client Visit]
+2023-02-16 22:52:00,524 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Add new Attachment]
+2023-02-16 22:52:00,576 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Add new Attachment]
+2023-02-16 22:52:03,261 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [Other]
+2023-02-16 22:55:41,863 [main] DEBUG com.appiancorp.ps.automatedtest.fixture.BaseFixture - browser=CHROME
+2023-02-16 22:55:44,635 [main] DEBUG com.appiancorp.ps.automatedtest.common.FixtureMetrics - userid=84bcca093c4598d85cda64588d69d7692e378fd76278e6c733eeba9646af6337, pipelineDimension=Standalone, testingFramework=FitNesse
+2023-02-16 22:55:47,036 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - LOGIN [vuramitem@vuram.com]
+2023-02-16 22:55:53,948 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - WAIT FOR LOGIN
+2023-02-16 22:55:59,331 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Expense]
+2023-02-16 22:55:59,360 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Expense]
+2023-02-16 22:56:06,445 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Submit Expense Reimbursement]
+2023-02-16 22:56:06,527 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Submit Expense Reimbursement]
+2023-02-16 22:56:11,032 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoTextField - POPULATION [ExpenseOne]
+2023-02-16 22:56:13,730 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [Appian World]
+2023-02-16 22:56:16,946 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [INR]
+2023-02-16 22:56:20,437 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDateField - POPULATION [02/14/2023]
+2023-02-16 22:56:23,141 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [Car rental]
+2023-02-16 22:56:26,811 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [Cash in Advance]
+2023-02-16 22:56:30,488 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [INR]
+2023-02-16 22:56:34,965 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoTextField - POPULATION [0.5]
+2023-02-16 22:56:37,477 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoTextField - POPULATION [1000]
+2023-02-16 22:56:40,564 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoParagraphField - POPULATION [Client Visit]
+2023-02-16 22:56:44,406 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Add new Attachment]
+2023-02-16 22:56:44,452 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Add new Attachment]
+2023-02-16 22:56:47,924 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [Other]
+2023-02-16 22:56:59,612 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoFileUploadField - POPULATION [C:\\Users\\sandhyan\\Desktop\\Backup\\Pictures\\Timesheet.png]
+2023-02-16 22:57:05,854 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoParagraphField - POPULATION [Flight ticket]
+2023-02-16 22:57:09,287 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoParagraphField - POPULATION [Business Travel to Delhi]
+2023-02-16 23:08:08,651 [main] DEBUG com.appiancorp.ps.automatedtest.fixture.BaseFixture - browser=CHROME
+2023-02-16 23:08:11,583 [main] DEBUG com.appiancorp.ps.automatedtest.common.FixtureMetrics - userid=84bcca093c4598d85cda64588d69d7692e378fd76278e6c733eeba9646af6337, pipelineDimension=Standalone, testingFramework=FitNesse
+2023-02-16 23:08:13,183 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - LOGIN [vuramitem@vuram.com]
+2023-02-16 23:08:19,759 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.TempoLogin - WAIT FOR LOGIN
+2023-02-16 23:08:25,045 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Expense]
+2023-02-16 23:08:25,071 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Expense]
+2023-02-16 23:08:32,216 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Submit Expense Reimbursement]
+2023-02-16 23:08:32,266 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Submit Expense Reimbursement]
+2023-02-16 23:08:41,632 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoTextField - POPULATION [ExpenseOne]
+2023-02-16 23:08:44,388 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [Appian World]
+2023-02-16 23:08:48,863 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [INR]
+2023-02-16 23:08:53,605 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDateField - POPULATION [02/14/2023]
+2023-02-16 23:08:56,974 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [Car rental]
+2023-02-16 23:09:00,646 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [Cash in Advance]
+2023-02-16 23:09:04,461 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [INR]
+2023-02-16 23:09:08,790 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoTextField - POPULATION [0.5]
+2023-02-16 23:09:11,407 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoTextField - POPULATION [1000]
+2023-02-16 23:09:14,036 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoParagraphField - POPULATION [Client Visit]
+2023-02-16 23:09:17,821 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - WAIT FOR LINK [Add new Attachment]
+2023-02-16 23:09:17,872 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoLinkField - CLINK LINK [Add new Attachment]
+2023-02-16 23:09:20,425 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownField - POPULATION [Other]
+2023-02-16 23:09:23,479 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoFileUploadField - POPULATION [C:\\Users\\sandhyan\\Desktop\\Backup\\Pictures\\Timesheet.png]
+2023-02-16 23:09:29,223 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoParagraphField - POPULATION [Flight ticket]
+2023-02-16 23:09:32,509 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoParagraphField - POPULATION [Business Travel to Delhi]
+2023-02-16 23:09:36,302 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoButton - WAIT FOR BUTTON [REVIEW]
+2023-02-16 23:09:36,393 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoButton - CLICK BUTTON [REVIEW]
+2023-02-16 23:09:41,019 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoButton - WAIT FOR BUTTON [SUBMIT]
+2023-02-16 23:09:41,063 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoButton - CLICK BUTTON [SUBMIT]
+2023-02-16 23:09:41,788 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoButton - WAIT FOR BUTTON [YES]
+2023-02-16 23:09:41,827 [main] DEBUG com.appiancorp.ps.automatedtest.tempo.interfaces.TempoButton - CLICK BUTTON [YES]
+2023-02-17 23:43:01,231 [main] DEBUG com.appiancorp.ps.automatedtest.fixture.BaseFixture - browser=CHROME
+2023-02-17 23:43:05,189 [main] DEBUG com.appiancorp.ps.automatedtest.common.FixtureMetrics - userid=84bcca093c4598d85cda64588d69d7692e378fd76278e6c733eeba9646af6337, pipelineDimension=Standalone, testingFramework=FitNesse
+2023-02-17 23:57:09,538 [main] DEBUG com.appiancorp.ps.automatedtest.fixture.BaseFixture - browser=CHROME
+2023-02-17 23:57:12,812 [main] DEBUG com.appiancorp.ps.automatedtest.common.FixtureMetrics - userid=84bcca093c4598d85cda64588d69d7692e378fd76278e6c733eeba9646af6337, pipelineDimension=Standalone, testingFramework=FitNesse
+2023-02-17 23:57:12,887 [main] DEBUG com.appiancorp.ps.automatedtest.fixture.BaseFixture - browser=CHROME
+2023-02-17 23:58:32,040 [main] DEBUG com.appiancorp.ps.automatedtest.fixture.BaseFixture - browser=CHROME
+2023-02-17 23:58:35,010 [main] DEBUG com.appiancorp.ps.automatedtest.common.FixtureMetrics - userid=84bcca093c4598d85cda64588d69d7692e378fd76278e6c733eeba9646af6337, pipelineDimension=Standalone, testingFramework=FitNesse
+2023-02-17 23:58:35,060 [main] DEBUG com.appiancorp.ps.automatedtest.fixture.BaseFixture - browser=CHROME
+2023-02-17 23:58:36,574 [main] DEBUG com.appiancorp.ps.automatedtest.fixture.BaseFixture - browser=CHROME

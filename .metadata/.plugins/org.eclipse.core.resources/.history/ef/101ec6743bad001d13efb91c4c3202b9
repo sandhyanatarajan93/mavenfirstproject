@@ -1,0 +1,18 @@
+package hubscript;
+
+public class Expflow extends BaseClass{
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		BaseClass b = new BaseClass();
+		b.initialize("chrome");
+		b.getUrl("");
+		b.SendValue("", "");
+		b.SendValue("", "");
+		Thread.sleep(5000);
+		b.clickelement("");
+
+	}
+
+}

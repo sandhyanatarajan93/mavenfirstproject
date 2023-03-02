@@ -1,0 +1,64 @@
+package hubscript;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+
+import org.apache.poi.ss.usermodel.Cell;
+import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.xssf.usermodel.XSSFCell;
+import org.apache.poi.xssf.usermodel.XSSFRow;
+import org.apache.poi.xssf.usermodel.XSSFSheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
+public class WriteandReadFile {
+
+	public static void main(String[] args) throws Exception {
+		// TODO Auto-generated method stub
+ 
+		System.out.println("value from Excel "+readvalue("pwd"));
+		
+		
+		
+	}
+	
+	public static String readvalue(String val1) throws Exception {
+		// instantiate Fileinputstream class by passing path of the file as String
+		// argument >> to read a data from this file as Bytes
+		
+		FileInputStream fis = new FileInputStream(
+				"C:\\Users\\sandhyan\\Desktop\\LocalWorkspace\\vuram\\ExtrFile\\InputData.xlsx");
+		// creating workbook instance that refers the xlsx file
+		XSSFWorkbook Wbook = new XSSFWorkbook(fis);
+		// creating sheet instance/object to retreive the data from specific sheet from
+		// workbook
+		XSSFSheet Sheet = Wbook.getSheet("Input");
+		Row row = null;
+		Cell colA = null;
+		Cell colB = null;
+		String keyvalue = null;
+		int rowno = Sheet.getLastRowNum();
+		System.out.println("Row no :"+rowno);
+
+		for (int a = 1; a < rowno; a++) {
+			row = Sheet.getRow(a);
+			colA = row.getCell(0);
+
+			String KeyDesc = colA.getRichStringCellValue().getString().toLowerCase();
+			System.out.println("Print the keydesc:" + KeyDesc);
+			if (KeyDesc.equals(val1)) {
+				colB = row.getCell(1);
+				 keyvalue = colB.getStringCellValue();
+				
+			} else {
+				return null;
+			}
+
+		}
+		return keyvalue;
+
+		
+	}
+	
+	
+	
+}

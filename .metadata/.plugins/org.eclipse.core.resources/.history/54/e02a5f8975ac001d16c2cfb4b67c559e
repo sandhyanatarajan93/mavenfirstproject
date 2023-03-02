@@ -1,0 +1,22 @@
+package hubscript;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class BaseClass {
+	
+	WebDriver driver;
+	
+	
+	public WebDriver initialize(String browsername) {
+		
+		if(browsername.equalsIgnoreCase("CHROME")) {
+			System.setProperty("webdriver.chrome.driver",
+					"C:\\Users\\sandhyan\\Desktop\\LocalWorkspace\\TestProject\\driver\\chromedriver_win32\\chromedriver.exe");
+			driver = new ChromeDriver();
+		}
+		return driver;
+		
+	}
+
+}

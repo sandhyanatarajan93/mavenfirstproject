@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="RunCucumberForAppianTest" project="cucumber-for-appian-22.4" tests="1" started="1" failures="0" errors="1" ignored="0">
+  <testsuite name="TestRunner.RunCucumberForAppianTest" time="44.207">
+    <testsuite name="Expense Reimbursement Request" time="44.207">
+      <testcase name="Submit the Expense Request" classname="Expense Reimbursement Request" time="44.207">
+        <error>com.appiancorp.ps.automatedtest.exception.ObjectNotFoundTestException: message:&lt;&lt;Object not found: Tempo Dropdown Search Box&gt;&gt;&#13;
+	at com.appiancorp.ps.automatedtest.exception.ExceptionBuilder.build(ExceptionBuilder.java:29)&#13;
+	at com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownSearchBox.getSearchBox(TempoDropdownSearchBox.java:64)&#13;
+	at com.appiancorp.ps.automatedtest.tempo.interfaces.TempoDropdownSearchBox.populate(TempoDropdownSearchBox.java:40)&#13;
+	at com.appiancorp.ps.automatedtest.fixture.TempoFixture.populateDropdownSearchBoxWith(TempoFixture.java:1323)&#13;
+	at com.appiancorp.ps.cucumber.fixtures.CucumberTempoFixture.populateDropdownSearchBoxWith(CucumberTempoFixture.java:743)&#13;
+	at ✽.I populate dropdown "Expense Category" search box with "Business Development"(file:///C:/Users/sandhyan/Desktop/LocalWorkspace/cucumber-for-appian-22.4/src/test/resources/ExpenseRequestFlow.feature:18)&#13;
+&#13;
+</error>
+      </testcase>
+    </testsuite>
+  </testsuite>
+</testrun>

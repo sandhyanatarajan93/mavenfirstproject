@@ -1,0 +1,31 @@
+package hubscript;
+
+import java.io.FileInputStream;
+import java.io.IOException;
+
+import org.apache.poi.xssf.usermodel.XSSFRow;
+import org.apache.poi.xssf.usermodel.XSSFSheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
+public class WriteandReadFile {
+
+	public static void main(String[] args) throws IOException {
+		// TODO Auto-generated method stub
+		
+		// instantiate Fileinputstream class by passing path of the file as String argument >> to read a data from this file as Bytes
+		FileInputStream fis = new FileInputStream("C:\\Users\\sandhyan\\Desktop\\LocalWorkspace\\vuram\\ExtrFile\\InputData.xlsx");
+		//creating workbook instance that refers the xlsx file
+		XSSFWorkbook Wbook = new XSSFWorkbook(fis);
+		//creating sheet instance/object to retreive the data from specific sheet from workbook
+		XSSFSheet Sheet = Wbook.getSheet("Input");
+		XSSFRow row = Sheet.getRow(0);
+		XSSFCell cell = row.getCell(0);
+		System.out.println("cell value : "+cell);
+		
+		
+		
+		
+
+	}
+
+}

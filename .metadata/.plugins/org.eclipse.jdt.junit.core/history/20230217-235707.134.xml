@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="RunCucumberForAppianTest" project="cucumber-for-appian-22.4" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="TestRunner.RunCucumberForAppianTest" time="7.513">
+    <testsuite name="Title of your feature #1" time="5.693">
+      <testcase name="Print the value" classname="Title of your feature #1" time="5.693"/>
+    </testsuite>
+    <testsuite name="Title of your feature #2" time="1.82">
+      <testcase name="Print the value" classname="Title of your feature #2" time="1.82"/>
+    </testsuite>
+  </testsuite>
+</testrun>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="RunCucumberForAppianTest" project="cucumber-for-appian-22.4" tests="1" started="1" failures="0" errors="1" ignored="0">
+  <testsuite name="TestRunner.RunCucumberForAppianTest" time="37.72">
+    <testsuite name="Expense Reimbursement Request" time="37.72">
+      <testcase name="Submit the Expense Request" classname="Expense Reimbursement Request" time="37.72">
+        <error>io.cucumber.junit.UndefinedStepException: The step "I populate field "Expense Category" search box with "Business Development"" is undefined. You can implement it using the snippet(s) below:
+
+@Given("I populate field {string} search box with {string}")
+public void i_populate_field_search_box_with(String string, String string2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+&#13;
+&#13;
+</error>
+      </testcase>
+    </testsuite>
+  </testsuite>
+</testrun>

@@ -1,0 +1,9 @@
+package hubscript;
+
+public class BaseClass {
+	
+	public void initialize() {
+		
+	}
+
+}

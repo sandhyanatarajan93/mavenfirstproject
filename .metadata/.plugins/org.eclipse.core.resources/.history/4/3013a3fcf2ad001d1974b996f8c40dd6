@@ -1,0 +1,40 @@
+@Expense
+Feature: Expense Reimbursement Request
+  I want to submit the Expense Request
+  
+   Background: Login to Appian environment
+    Given I setup with "CHROME" browser
+    When I set appian URL to "https://vuramsolutionsdev.appiancloud.com/suite/portal/login.jsp"
+    And I set appian version to "22.4"
+    And I set appian locale to "en_US"
+    Then I login with username "vuramitem@vuram.com"
+
+  Scenario: Submit the Expense Request
+     Given I click on link "Expense"
+     Given I set timeout seconds to "10"
+     Given I click on link "Submit Expense Reimbursement"
+     Given I set timeout seconds to "10"
+     Given I populate field "Request Name" with "ExpenseOne"
+     Given I populate dropdown "Expense Category" search box with "Business Development"
+     Given I populate dropdown "Reimbursement Currency" search box with "INR"
+     Given I set timeout seconds to "10"
+     Given I populate field "Date" with "02/14/2023"
+     Given I populate field "Expense Type" search box with "Flights"
+     Given I populate field "Payment Mode" search box with "Travel Card"
+     Given I populate dropdown "Expense Currency" search box with "INR"
+     Given I set timeout seconds to "10"
+     Given I populate field "Conversion Rate" with "0.5"
+     Given I set timeout seconds to "10"
+     Given I populate field "Expense Amount" with "10000"
+     Given I set timeout seconds to "10"
+     Given I populate field "Expense Notes" with "Business visit to Client location"
+     
+     
+     
+     
+     
+     
+
+    
+
+ 

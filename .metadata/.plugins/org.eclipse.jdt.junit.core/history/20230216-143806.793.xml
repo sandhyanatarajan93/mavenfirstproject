@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="RunCucumberForAppianTest" project="cucumber-for-appian-22.4" tests="1" started="1" failures="0" errors="1" ignored="0">
+  <testsuite name="TestRunner.RunCucumberForAppianTest" time="5.268">
+    <testsuite name="Expense Reimbursement Request" time="5.268">
+      <testcase name="Submit the Expense Request" classname="Expense Reimbursement Request" time="5.268">
+        <error>org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 107
+Current browser version is 110.0.5481.100 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'VURAM-2021-0203', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--disable-extensions, --disable-extensions, no-sandbox], binary: C:\Program Files\Google\Chr..., extensions: [], prefs: {download.default_directory: C:\path\to\thisProject\Down..., profile.default_content_settings.popups: 0, safebrowsing.enabled: true}, useAutomationExtension: false}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [--disable-extensions, --disable-extensions, no-sandbox], binary: C:\Program Files\Google\Chr..., extensions: [], prefs: {download.default_directory: C:\path\to\thisProject\Down..., profile.default_content_settings.popups: 0, safebrowsing.enabled: true}, useAutomationExtension: false}}}]&#13;
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:126)&#13;
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:84)&#13;
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:62)&#13;
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:156)&#13;
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)&#13;
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:558)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:245)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.&lt;init&gt;(RemoteWebDriver.java:161)&#13;
+	at org.openqa.selenium.chromium.ChromiumDriver.&lt;init&gt;(ChromiumDriver.java:108)&#13;
+	at org.openqa.selenium.chrome.ChromeDriver.&lt;init&gt;(ChromeDriver.java:106)&#13;
+	at org.openqa.selenium.chrome.ChromeDriver.&lt;init&gt;(ChromeDriver.java:93)&#13;
+	at org.openqa.selenium.chrome.ChromeDriver.&lt;init&gt;(ChromeDriver.java:82)&#13;
+	at com.appiancorp.ps.automatedtest.fixture.BaseFixture.setupWithBrowser(BaseFixture.java:174)&#13;
+	at com.appiancorp.ps.cucumber.fixtures.CucumberBaseFixture.setupWithBrowser(CucumberBaseFixture.java:15)&#13;
+	at ✽.I setup with "CHROME" browser(file:///C:/Users/sandhyan/Desktop/LocalWorkspace/cucumber-for-appian-22.4/src/test/resources/ExpenseRequestFlow.feature:6)&#13;
+&#13;
+</error>
+      </testcase>
+    </testsuite>
+  </testsuite>
+</testrun>

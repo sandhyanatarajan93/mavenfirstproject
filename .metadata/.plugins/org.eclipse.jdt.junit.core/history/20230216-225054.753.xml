@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="RunCucumberForAppianTest" project="cucumber-for-appian-22.4" tests="1" started="1" failures="0" errors="1" ignored="0">
+  <testsuite name="TestRunner.RunCucumberForAppianTest" time="82.975">
+    <testsuite name="Expense Reimbursement Request" time="82.975">
+      <testcase name="Submit the Expense Request" classname="Expense Reimbursement Request" time="82.975">
+        <error>com.appiancorp.ps.automatedtest.exception.GenericTestException: message:&lt;&lt;An error has occurred: Wait for Field Type - FILE_UPLOAD - Upload Receipt&gt;&gt;&#13;
+	at com.appiancorp.ps.automatedtest.exception.ExceptionBuilder.build(ExceptionBuilder.java:79)&#13;
+	at com.appiancorp.ps.automatedtest.tempo.interfaces.TempoFieldFactory.waitFor(TempoFieldFactory.java:109)&#13;
+	at com.appiancorp.ps.automatedtest.fixture.TempoFixture.populateFieldWith(TempoFixture.java:1231)&#13;
+	at com.appiancorp.ps.cucumber.fixtures.CucumberTempoFixture.populateFieldWith(CucumberTempoFixture.java:449)&#13;
+	at ✽.I populate field type "FILE_UPLOAD" named "Upload Receipt" with "C:\\Users\\sandhyan\\Desktop\\Backup\\Pictures\\Timesheet.png"(file:///C:/Users/sandhyan/Desktop/LocalWorkspace/cucumber-for-appian-22.4/src/test/resources/ExpenseRequestFlow.feature:39)&#13;
+&#13;
+</error>
+      </testcase>
+    </testsuite>
+  </testsuite>
+</testrun>
